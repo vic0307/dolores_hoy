@@ -8,11 +8,11 @@ Una aplicación móvil desarrollada en **Flutter** para la gestión de servicios
 
 | Inicio / Login | Clima | Cambio de Divisas |
 | :---: | :---: | :---: |
-| ![Login](URL_DE_TU_IMAGEN_LOGIN) | ![Clima](URL_DE_TU_IMAGEN_CLIMA) | ![Cambio](URL_DE_TU_IMAGEN_CAMBIO) |
+| ![Login](![Login](https://github.com/usuario/repositorio/assets/...)) | ![Clima](![Clima](https://github.com/usuario/repositorio/assets/...)) | ![Cambio](![Cambio](https://github.com/usuario/repositorio/assets/...)) |
 
 | Festivos | Wikipedia / NASA |
 | :---: | :---: |
-| ![Festivos](URL_DE_TU_IMAGEN_FESTIVOS) | ![Wiki](URL_DE_TU_IMAGEN_WIKI) |
+| ![Festivos](![Festivos](https://github.com/usuario/repositorio/assets/...)) | ![Wiki](![Wiki](https://github.com/usuario/repositorio/assets/...)) |
 
 > **Nota:** Reemplaza cada `URL_DE_TU_IMAGEN_...` con los enlaces que copiaste de GitHub (`https://github.com/user-attachments/assets/...`).
 
