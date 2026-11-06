@@ -8,11 +8,11 @@ Una aplicación móvil desarrollada en **Flutter** para la gestión de servicios
 
 | Inicio / Login | Clima | Cambio de Divisas |
 | :---: | :---: | :---: |
-| <img src="login" width="220" /> | <img src="clima" width="220" /> | <img src="cambio" width="220" /> |
+| <img src="capturas/login.png" width="220" /> | <img src="capturas/clima.png" width="220" /> | <img src="capturas/cambio.png" width="220" /> |
 
 | Festivos | Wikipedia / NASA |
 | :---: | :---: |
-| <img src="festivos" width="220" /> | <img src="wiki" width="220" /> |
+| <img src="capturas/festivos.png" width="220" /> | <img src="capturas/wiki.png" width="220" /> |
 
 ---
 
