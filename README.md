@@ -1,24 +1,22 @@
-# Dolores Hoy 
+# Dolores Hoy 📱☀️
 
 Una aplicación móvil desarrollada en **Flutter** para la gestión de servicios, consulta del clima, cambio de divisas, eventos festivos, imágenes de la NASA y artículos de Wikipedia en **Dolores Hidalgo, Guanajuato**.
 
 ---
 
-##  Capturas de Pantalla
+## 📸 Capturas de Pantalla
 
 | Inicio / Login | Clima | Cambio de Divisas |
 | :---: | :---: | :---: |
-| ![Login](![Login](https://github.com/usuario/repositorio/assets/...)) | ![Clima](![Clima](https://github.com/usuario/repositorio/assets/...)) | ![Cambio](![Cambio](https://github.com/usuario/repositorio/assets/...)) |
+| <img src="login" width="220" /> | <img src="clima" width="220" /> | <img src="cambio" width="220" /> |
 
 | Festivos | Wikipedia / NASA |
 | :---: | :---: |
-| ![Festivos](![Festivos](https://github.com/usuario/repositorio/assets/...)) | ![Wiki](![Wiki](https://github.com/usuario/repositorio/assets/...)) |
-
-> **Nota:** Reemplaza cada `URL_DE_TU_IMAGEN_...` con los enlaces que copiaste de GitHub (`https://github.com/user-attachments/assets/...`).
+| <img src="festivos" width="220" /> | <img src="wiki" width="220" /> |
 
 ---
 
-## Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 - **Framework:** [Flutter](https://flutter.dev/) (Dart)
 - **Patrón de Arquitectura:** MVVM (Model-View-ViewModel) / Clean Architecture
@@ -27,7 +25,7 @@ Una aplicación móvil desarrollada en **Flutter** para la gestión de servicios
 
 ---
 
-##  Instalación y Configuración
+## 🚀 Instalación y Configuración
 
 1. **Clonar el repositorio:**
    ```bash
