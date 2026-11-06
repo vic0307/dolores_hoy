@@ -1,34 +1,35 @@
-# Dolores Hoy
+# Dolores Hoy 
 
-Tablero en Flutter que consume 5 APIs gratuitas (Open-Meteo, Frankfurter, Nager.Date, Wikipedia y NASA APOD) con TDD y buenas prácticas de seguridad.
+Una aplicación móvil desarrollada en **Flutter** para la gestión de servicios, consulta del clima, cambio de divisas, eventos festivos, imágenes de la NASA y artículos de Wikipedia en **Dolores Hidalgo, Guanajuato**.
 
-Desarrollo Móvil Integral · UTNG
+---
 
-## Requisitos
-- Flutter 3.x (Dart >= 3.0)
+##  Capturas de Pantalla
 
-## Configuración
-```bash
-flutter create . --platforms=android,ios
-flutter pub get
-cp secrets.json.example secrets.json   # pon tu clave de api.nasa.gov (secrets.json NO se sube a git)
-```
+| Inicio / Login | Clima | Cambio de Divisas |
+| :---: | :---: | :---: |
+| ![Login](URL_DE_TU_IMAGEN_LOGIN) | ![Clima](URL_DE_TU_IMAGEN_CLIMA) | ![Cambio](URL_DE_TU_IMAGEN_CAMBIO) |
 
-## Ejecutar
-```bash
-flutter run --dart-define-from-file=secrets.json
-```
+| Festivos | Wikipedia / NASA |
+| :---: | :---: |
+| ![Festivos](URL_DE_TU_IMAGEN_FESTIVOS) | ![Wiki](URL_DE_TU_IMAGEN_WIKI) |
 
-## Pruebas (sin internet)
-```bash
-flutter test
-```
+> **Nota:** Reemplaza cada `URL_DE_TU_IMAGEN_...` con los enlaces que copiaste de GitHub (`https://github.com/user-attachments/assets/...`).
 
-## Estructura
-- `lib/dominio`: excepciones y modelos
-- `lib/datos`: ClienteSeguro (https, timeout, límite de tamaño), ConfigClaves, servicios
-- `lib/presentacion`: ViewModel y pantalla
-- `test`: pruebas con MockClient
+---
 
-## Seguridad
-Claves fuera del código (`--dart-define`), https obligatorio, entradas/salidas validadas, logs sin secretos (`ClienteSeguro.redactar`).
+## Tecnologías y Herramientas
+
+- **Framework:** [Flutter](https://flutter.dev/) (Dart)
+- **Patrón de Arquitectura:** MVVM (Model-View-ViewModel) / Clean Architecture
+- **Peticiones HTTP:** Package `http`
+- **Control de Versiones:** Git & GitHub
+
+---
+
+##  Instalación y Configuración
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/vic0307/dolores_hoy.git](https://github.com/vic0307/dolores_hoy.git)
+   cd dolores_hoy
